@@ -1,5 +1,8 @@
-### Hi there 👋
+### 👋 Hey, I'm Calvin!
 
+🌱 I'm currently learning embedded systems.
+🔭 I'm working on a video game built mainly in C# with the Godot engine.
+⚡ I started mostly self taught since I was 15, but have since been pursuing my degree in computer science & mathematics.
 <!--
 **beamxrr/beamxrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
