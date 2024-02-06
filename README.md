@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Calvin!
 
-### 🌱 I'm currently learning embedded systems.
+### 🌱 I'm currently learning AI and machine learning.
 ### 🔭 I'm working on a video game built mainly in C# with the Godot engine.
 ### ⚡ I started mostly self taught since I was 15, but have since been pursuing my degree in computer science & mathematics.
 <!--
