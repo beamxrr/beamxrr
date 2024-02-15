@@ -1,7 +1,7 @@
 # 🌌 About Me:
-Hi 👋 I'm Calvin
-🖥️ I'm a computer science and applied math student, as well as full stack developer.
-💡 I'm currently self-teaching machine learning with hopes to pursue it further in my education.
+### Hey 👋 I'm Calvin
+### 🖥️ I'm a computer science and applied math student, as well as full stack developer.
+### 💡 I'm currently self-teaching machine learning with hopes to pursue it further in my education.
 
 
 # 💻 Tech Stack:
